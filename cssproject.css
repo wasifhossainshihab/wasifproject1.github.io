@@ -1,0 +1,40 @@
+body{
+
+    background-color:rgb(19 39 51);
+    color: white;
+    text-align: center;
+font-family: 'Courier New', Courier, monospace;
+  border: 90px solid cyan;
+  border-top: 90px solid rgb(19 39 51);
+  border-bottom: 90px solid rgb(19 39 51);
+
+}
+
+p{
+
+    margin: 2% 10% 2% 10%;
+    
+    padding:25px;
+}
+
+.header{
+
+    margin-bottom:10%;
+}
+.width{
+
+    width: 220px;
+    margin: 10px;
+}
+
+#orange{
+
+    padding: 30px;
+    margin: 60px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    background-color: darkorange;
+    border: 1px solid darkorange;
+ border-radius: 7px;
+}
